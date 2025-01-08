@@ -90,4 +90,3 @@ For questions or feedback, contact the author:
 
 - Name: cyberknight
 - Email: [hamzaayub125@gmail.com]
-- GitHub: [cyberknight](https://github.com/cyberknight0021)
